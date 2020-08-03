@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm Antonio Bourassa
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ```javascript
 const abourass = {
   pronouns: "He" | "Him",
@@ -12,6 +9,9 @@ const abourass = {
   currentlyWorkingOn: 'Veritas BPO Verification Platform 😑'
 }
 ```
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **Abourass/Abourass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
