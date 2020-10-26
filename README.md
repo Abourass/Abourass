@@ -11,11 +11,11 @@ const abourass = {
 ```
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,817 Contributions in the Year 2020
+> 🏆 1,820 Contributions in the Year 2020
  > 
 > 📦 381.5 kB Used in Github's Storage 
  > 
@@ -28,8 +28,8 @@ const abourass = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    351 commits    █████████░░░░░░░░░░░░░░░░   37.38% 
-🌆 Daytime    448 commits    ████████████░░░░░░░░░░░░░   47.71% 
+🌞 Morning    353 commits    █████████░░░░░░░░░░░░░░░░   37.59% 
+🌆 Daytime    446 commits    ████████████░░░░░░░░░░░░░   47.5% 
 🌃 Evening    92 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.8% 
 🌙 Night      48 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.11%
 
