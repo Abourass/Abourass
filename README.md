@@ -11,17 +11,17 @@ const abourass = {
 ```
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.6%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,874 Contributions in the Year 2020
+> 🏆 1,876 Contributions in the Year 2020
  > 
 > 📦 382.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 70 Public Repositories
+> 📜 71 Public Repositories
  > 
 > 🔑 5 Private Repositories 
 
