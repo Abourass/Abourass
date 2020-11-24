@@ -6,7 +6,7 @@ const abourass = {
   languages: ['Javascript', 'Typescript', 'Python', 'Bash'],
   askMeAbout: 'Agronomy' | 'Botany',
   lookingToCollaborateOn: 'Idle Games' | 'Anything fun',
-  currentlyWorkingOn: 'Veritas BPO Verification Platform 😑'
+  currentlyWorkingOn: 'Veritas BPO Verification Platform'
 }
 ```
 
