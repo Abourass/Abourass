@@ -13,7 +13,7 @@ const abourass = {
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -23,9 +23,9 @@ const abourass = {
  > 
 > 💼 Opted to Hire
  > 
-> 📜 71 Public Repositories
+> 📜 71 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 5 Private Repositories  
 
 **I'm an Early 🐤** 
 
@@ -44,14 +44,14 @@ const abourass = {
 ⌚︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-TypeScript               29 hrs 15 mins      ██████████████████░░░░░░░   75.46% 
-JavaScript               6 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
-JSON                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.06% 
-HTML                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13% 
-SCSS                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04%
+TypeScript               28 hrs 23 mins      ███████████████████░░░░░░   78.62% 
+JavaScript               4 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68% 
+JSON                     1 hr 15 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.48% 
+HTML                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28% 
+SCSS                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
 
 🔥 Editors: 
-WebStorm                 38 hrs 46 mins      █████████████████████████   100.0%
+WebStorm                 36 hrs 6 mins       █████████████████████████   100.0%
 
 ```
 
