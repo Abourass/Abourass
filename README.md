@@ -3,10 +3,10 @@
 ```javascript
 const abourass = {
   pronouns: "He" | "Him",
-  languages: ['Javascript', 'Typescript', 'Python', 'Bash'],
+  languages: ['Typescript', 'Javascript', 'Python', 'Bash'],
   askMeAbout: 'Agronomy' | 'Botany',
-  lookingToCollaborateOn: 'Idle Games' | 'Anything fun',
-  currentlyWorkingOn: 'Veritas BPO Verification Platform'
+  lookingToCollaborateOn: 'Anything fun',
+  currentlyWorkingOn: 'Veritas BPO/CMA Verification Platform'
 }
 ```
 
