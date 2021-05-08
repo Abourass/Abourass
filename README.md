@@ -13,13 +13,13 @@ const abourass = {
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-646191%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-646224%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,031 Contributions in the Year 2021
+> 🏆 1,035 Contributions in the Year 2021
  > 
-> 📦 385.2 kB Used in Github's Storage 
+> 📦 385.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -44,14 +44,14 @@ const abourass = {
 ⌚︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-Svelte                   6 hrs               █████████████░░░░░░░░░░░░   53.39% 
-TypeScript               4 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   38.46% 
-HTML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41% 
-JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34% 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.32%
+Svelte                   5 hrs 10 mins       ████████████░░░░░░░░░░░░░   50.13% 
+TypeScript               4 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   41.94% 
+HTML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.72% 
+JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15% 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.97%
 
 🔥 Editors: 
-WebStorm                 11 hrs 15 mins      █████████████████████████   100.0%
+WebStorm                 10 hrs 19 mins      █████████████████████████   100.0%
 
 ```
 
