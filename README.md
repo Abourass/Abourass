@@ -3,7 +3,7 @@
 ```javascript
 const abourass = {
   pronouns: "He" | "Him",
-  languages: ["Typescript", "Javascript", "Python", "Bash"],
+  languages: ["Typescript", "Javascript", "Svelte", "Fish"],
   askMeAbout: "Agronomy" | "Botany",
   lookingToCollaborateOn: "Anything fun",
   currentlyWorkingOn: "Veritas BPO/CMA Verification Platform"
