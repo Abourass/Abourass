@@ -7,7 +7,7 @@ const abourass = {
   frameworks: ['SolidJS', 'Svelte'],
   askMeAbout: "Foundry" | "Agronomy" | "Botany" | "What game I'm working on",
   lookingToCollaborateOn: "Anything fun.. games, foundry plugins, dev tools, you name it",
-  currentWork: "BPO/CMA Verification Platform",
+  currentWork: "Making Foundry module for Paizo :D",
   currentEnjoyingWorkingOn: "A witchy hacking game"
 }
 ```
